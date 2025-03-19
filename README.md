@@ -1,5 +1,5 @@
 ### <img width="180" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi%20I'm%20anicmv&font=Doto" /> 👋
-- 👋 I’m a java developer, just java.
+- ✨ I’m a java developer, just java.
 - 👀 I’m interested in anime, coding, music and video.
 - 📫 How to reach me i@yd.md
 
